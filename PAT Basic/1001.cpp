@@ -17,11 +17,10 @@ int main()
         }
         else
         {
-            n = (3*n + 1) / 2;
+            n = (3 * n + 1) / 2;
             step++;
         }
     }
     cout << step;
-
     return 0;
 }

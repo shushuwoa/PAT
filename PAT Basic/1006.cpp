@@ -14,7 +14,6 @@ int main()
         state[i++] = n % 10;
         n /= 10;
     }
-
     for (int i = 0; i < state[2]; i++)
         cout << 'B';
     for (int i = 0; i < state[1]; i++)

@@ -44,6 +44,5 @@ int main()
 
     cout << maxname << " " << maxid << endl;
     cout << minname << " " << minid << endl;
-
     return 0;
 }

@@ -51,6 +51,5 @@ int main()
         if (i)
             cout << " ";
     }
-
     return 0;
 }
